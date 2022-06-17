@@ -1,4 +1,4 @@
-# docker-lamp
+# Docker-LAMP
 
 Docker example with Apache, MySql 8.0, PhpMyAdmin and Php
 
